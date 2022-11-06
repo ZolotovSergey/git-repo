@@ -1,7 +1,5 @@
 package com.max.idea;
-import java.util.Arrays;
 import java.util.Scanner;
-import static java.lang.Math.pow;
 
 public class Задача_4_Операторы {
     public static void main(String[] args) {
